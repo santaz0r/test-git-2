@@ -10,5 +10,6 @@
 8. git branch 
 9. git branch [name]
 10. git checkout [name]
+11. git branch -d develop (удалить ветку локально)
 
-11. git pull [rep_link] [branch_name]
+12. git pull [rep_link] [branch_name]
