@@ -10,3 +10,5 @@
 8. git branch 
 9. git branch [name]
 10. git checkout [name]
+
+11. git pull [rep_link] [branch_name]
