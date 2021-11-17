@@ -5,3 +5,8 @@
 5. git push [rep_link] [branch_name]
 6. git reset - для файлов (git reset --hard (для сброса к предыдущему коммиту изменения файлов))
 7. git diff
+
+----
+8. git branch 
+9. git branch [name]
+10. git checkout [name]
